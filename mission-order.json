@@ -1,0 +1,166 @@
+{
+  "game": "GTA San Andreas",
+  "language": "Romanian",
+  "story_order": [
+    {
+      "order": 1,
+      "mission": "Intro",
+      "files": [
+        "Intro Movie #1 ('After 5 years on the East ...').ogg_ro_dubbed.mp3",
+        "Intro Movie #3 (Tenpenny pulls over CJ's ...).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 2,
+      "mission": "Big Smoke",
+      "files": [
+        "Big Smoke #1 (Intro).ogg_ro_dubbed.mp3",
+        "Big Smoke #2 (Sweet and Kendl).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 3,
+      "mission": "Ryder",
+      "files": [
+        "Ryder (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 4,
+      "mission": "Sweet's Girl",
+      "files": [
+        "Sweet's Girl (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 5,
+      "mission": "Drive-Thru",
+      "files": [
+        "Drive Thru #1 (Intro).ogg_ro_dubbed.mp3",
+        "Drive Thru #2 (Ordering the food).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 6,
+      "mission": "Drive-By",
+      "files": [
+        "Drive By (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 7,
+      "mission": "Cleaning the Hood",
+      "files": [
+        "Cleaning the Hood #1 (Intro).ogg_ro_dubbed.mp3",
+        "Cleaning the Hood #2 (B-Dup's Place).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 8,
+      "mission": "Robbing Uncle Sam",
+      "files": [
+        "Robbing Uncle Sam (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 9,
+      "mission": "Madd Dogg",
+      "files": [
+        "Madd Dogg (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 10,
+      "mission": "O.G. Loc",
+      "files": [
+        "O.G. Loc #1 (Intro).ogg_ro_dubbed.mp3",
+        "O.G. Loc #2 (Outside the Police Station).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 11,
+      "mission": "House Party",
+      "files": [
+        "House Party #1 (Intro, at Burger Shot).ogg_ro_dubbed.mp3",
+        "House Party #2 (Intro, OG Loc on stage).ogg_ro_dubbed.mp3",
+        "House Party #3 (Ballas on the way).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 12,
+      "mission": "Home Invasion",
+      "files": [
+        "Home Invasion (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 13,
+      "mission": "Lure",
+      "files": [
+        "Lure (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 14,
+      "mission": "Cesar Vialpando",
+      "files": [
+        "Cesar Vialpando #1 (Intro).ogg_ro_dubbed.mp3",
+        "Cesar Vialpando #2 (Outro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 15,
+      "mission": "Los Desperados",
+      "files": [
+        "Los Desperados (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 16,
+      "mission": "Customs Fast Track",
+      "files": [
+        "Customs Fast Track (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 17,
+      "mission": "Dam and Blast",
+      "files": [
+        "Dam and Blast (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 18,
+      "mission": "Cop Wheels",
+      "files": [
+        "Cop Wheels (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 19,
+      "mission": "Deconstruction",
+      "files": [
+        "Deconstruction (Intro).ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 20,
+      "mission": "End of the Line",
+      "files": [
+        "End of the Line #2 (In front of the crack palace).ogg_ro_dubbed.mp3",
+        "End of the Line #3 (Confrontation with Big Smoke).ogg_ro_dubbed.mp3",
+        "End of the Line #4 (Confrontation with Tenpenny).ogg_ro_dubbed.mp3",
+        "End of the Line #5 (Tenpenny's last words).ogg_ro_dubbed.mp3",
+        "End of the Line #6 ('See you around, officer').ogg_ro_dubbed.mp3",
+        "End of the Line #7 ('We gotta stay on top of our game').ogg_ro_dubbed.mp3"
+      ]
+    },
+    {
+      "order": 21,
+      "mission": "Riot",
+      "files": [
+        "Riot #1 (Intro, Awaiting the verdict).ogg_ro_dubbed.mp3"
+      ]
+    }
+  ]
+}
